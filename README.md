@@ -1,5 +1,13 @@
 # Fundamentals-of-Deep-Learning-HFU
 
-This repository was created for the course MME 26849: "Fundamentals of Deep Learning and TinyML". 
+**Repository for MME 26849: Fundamentals of Deep Learning and TinyML**  
+Assistant Course Instructor curated course material including code, exercises, slides, and demos covering classical and modern deep learning building blocks with a focus on model efficiency (pruning, quantization, TinyML).
 
-I worked as an Assistant Course Instructor, where I was in charge of structuring this course content, assignments, projects, and developing this code base for topics such as Support Vector Machines, Single/Multilayer Perceptron, Convolutional Neural Networks, Hyper-parameter Tuning, Pruning, and Quantization. 
+## Key Capabilities / Covered Topics
+- Support Vector Machines
+- Single & Multilayer Perceptrons
+- Convolutional Neural Networks
+- Hyperparameter Tuning
+- Model Pruning
+- Quantization (including TinyML considerations)
+- Practical experimentation via Jupyter notebooks
